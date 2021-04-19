@@ -1,0 +1,16 @@
+/home/z/tuwaiq/Day7/tokenizer/bin/Debug/net5.0/tokenizer
+/home/z/tuwaiq/Day7/tokenizer/bin/Debug/net5.0/tokenizer.deps.json
+/home/z/tuwaiq/Day7/tokenizer/bin/Debug/net5.0/tokenizer.runtimeconfig.json
+/home/z/tuwaiq/Day7/tokenizer/bin/Debug/net5.0/tokenizer.runtimeconfig.dev.json
+/home/z/tuwaiq/Day7/tokenizer/bin/Debug/net5.0/tokenizer.dll
+/home/z/tuwaiq/Day7/tokenizer/bin/Debug/net5.0/ref/tokenizer.dll
+/home/z/tuwaiq/Day7/tokenizer/bin/Debug/net5.0/tokenizer.pdb
+/home/z/tuwaiq/Day7/tokenizer/obj/Debug/net5.0/tokenizer.csprojAssemblyReference.cache
+/home/z/tuwaiq/Day7/tokenizer/obj/Debug/net5.0/tokenizer.GeneratedMSBuildEditorConfig.editorconfig
+/home/z/tuwaiq/Day7/tokenizer/obj/Debug/net5.0/tokenizer.AssemblyInfoInputs.cache
+/home/z/tuwaiq/Day7/tokenizer/obj/Debug/net5.0/tokenizer.AssemblyInfo.cs
+/home/z/tuwaiq/Day7/tokenizer/obj/Debug/net5.0/tokenizer.csproj.CoreCompileInputs.cache
+/home/z/tuwaiq/Day7/tokenizer/obj/Debug/net5.0/tokenizer.dll
+/home/z/tuwaiq/Day7/tokenizer/obj/Debug/net5.0/ref/tokenizer.dll
+/home/z/tuwaiq/Day7/tokenizer/obj/Debug/net5.0/tokenizer.pdb
+/home/z/tuwaiq/Day7/tokenizer/obj/Debug/net5.0/tokenizer.genruntimeconfig.cache
